@@ -1,0 +1,69 @@
+.HeaderBox{
+    display: flex;
+    width: 95%;
+    flex-direction: column;
+    background-color: white;
+    height: 40vh;
+    position: relative;
+    top: 2vh;
+    left: 2%;
+    border-radius: 5px;
+    background-image: url("night.jpg");
+}
+
+ .BlackHeader{
+    display: flex;
+    background-color: black;
+    width: 100%;
+    height: 8vh;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+} 
+#heading{
+    display: flex;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    position: relative;
+    left: 2%;
+    font-weight: bold;
+}
+.temperature{
+    color: white;
+    position: relative;
+    height: 30vh;
+    width: 50%;
+    position: relative;
+    left: 3%;
+    text-align: left;
+}
+.firstheading{
+    font-size: 120px;
+    position: relative;
+    bottom: 60%;
+    font-weight: 400;
+}
+p{
+    position: relative;
+    bottom: 275px;
+    left: 115px;
+}
+.secondheading{
+    font-size: 35px;
+    position: relative;
+    bottom: 275%;
+    left: 1.5%;
+
+}
+.thirdheading{
+    position: relative;
+    bottom: 290%;
+    left: 1.5%;
+}
+.moon{
+    position: relative;
+    bottom: 120px;
+    left: 40%;
+    color: grey;
+    height: 120px;
+}
